@@ -1,2 +1,2 @@
-# react-3
+# sandbox-react
 Created with CodeSandbox
